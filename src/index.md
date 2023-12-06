@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Intro
+title:
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
 "There's a thousand and one things I could tell you about me, but I'd much rather say a few short nothings."
-
-## Basic Information
 
 - **I'm a tinkerer**
 - **I break shit**
