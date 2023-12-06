@@ -10,9 +10,7 @@ tags:
 ---
 
 
-### Character Profile: Atoria Stormfire
-
-![Atoria Stormfire](/images/Atoria-1.png)
+![Atoria Stormfire](/images/atoria-1.png)
 
 ### Basic Information
 
